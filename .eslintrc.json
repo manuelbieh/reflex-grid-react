@@ -1,0 +1,6 @@
+{
+    "extends": [
+        "wiremore",
+        "wiremore/react"
+    ]
+}
